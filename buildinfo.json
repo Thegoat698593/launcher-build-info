@@ -3,5 +3,6 @@
   "buildslogan": "X Marks The Spot!",
   "buildmessage": "Experience the latest Fortnite update now!",
   "available": true,
-  "audio": "https://example.com/audio/trailer.mp3"
+  "audio": "https://example.com/audio/trailer.mp3",
+  "image": "https://gamepedia.cursecdn.com/fortnite_gamepedia/thumb/9/94/Volcano_4k.png/1200px-Volcano_4k.png"
 }
